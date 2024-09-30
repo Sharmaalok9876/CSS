@@ -1,0 +1,28 @@
+
+/* universal selector */
+* {
+    color: blue;
+}
+/* badh me likha hua chij ka jyda priority hoti hai css me */
+/* Element Selector */
+h1 {
+    color: green;
+}
+
+button {
+    color: blueviolet;
+}
+
+/* id selector(unique name) */
+
+#heading1 {
+    color: yellow;
+}
+#heading2 {
+    color: pink;
+}
+
+/* class selector */
+.webdev {
+    color: black;
+}
